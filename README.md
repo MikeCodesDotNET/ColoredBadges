@@ -1,7 +1,24 @@
 # Colored Badges for GitHub profiles
-Some badges I created for my [GitHub profile readme](https://github.com/MikeCodesDotNET). 
+I've put together some badges I for my [GitHub profile readme](https://github.com/MikeCodesDotNET) as shown below and thought they might be useful to others. 
+
+<p align="center">
+  <a href="#">
+    <img src="help/mybiopage.png" alt="my github bio page!" style="vertical-align:top; margin:6px 4px">
+  </a> 
+</p>
+
+### How to add a readme on your profile
+
+It's super simple! 
+
+Create a new repo using your GitHub username as the repo name. Voilà! 🎉🎉🎉🎉
+
+---
+
+## Badges
 
 All badges are available as both [SVG](https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg) & [PNG](https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/png). I've also included the original [Figma file](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/badges.fig) I used to create these should you want to edit. 
+
 
 ### Editing / Creating you own 
 The [Figma file](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/badges.fig) contains a page detailing how to match the existing badge styles. 
@@ -12,6 +29,8 @@ The [Figma file](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/bad
 Either create your own with the supplied files or create an [issue](https://github.com/MikeCodesDotNET/ColoredBadges/issues/new?body=I%27d+like+to+have+a+new+badge.%0A%0A---Request+Info:) and if enough others thumbs-up the issue then I'll do my best to get the badge made. 
 
 ---
+
+
 
 ## Blogging Platforms
 <p align="left">
