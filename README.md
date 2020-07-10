@@ -280,3 +280,21 @@ Either create your own with the supplied files or create an [issue](https://gith
   </a>  
 
 </p>
+
+
+## Pronouns
+
+<p align="left">
+  <a href="#">
+    <img src="svg/pronouns/hehim.svg" alt="mixer" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="svg/pronouns/sheher.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/pronouns/theythem.svg" alt="vimeo" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+</p>
