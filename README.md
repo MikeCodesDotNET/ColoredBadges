@@ -256,6 +256,10 @@ Either create your own with the supplied files or create an [issue](https://gith
   </a> 
 
   <a href="#">
+    <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
     <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
   </a> 
 
