@@ -244,6 +244,10 @@ Either create your own with the supplied files or create an [issue](https://gith
   </a> 
 
   <a href="#">
+    <img src="svg/dev/services/exchange.svg" alt="exchange" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
     <img src="svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:6px 4px">
   </a> 
 
@@ -259,11 +263,21 @@ Either create your own with the supplied files or create an [issue](https://gith
     <img src="svg/dev/services/nuget.svg" alt="nuget" style="vertical-align:top; margin:6px 4px">
   </a> 
 
+  <a href="#">
+    <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  
 </p>
 
 
 ### Tools  
 <p align="left">
+  <a href="#">
+    <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
   <a href="#">
     <img src="svg/dev/tools/jetbrains_appcode.svg" alt="jetbrains_appcode" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -317,6 +331,11 @@ Either create your own with the supplied files or create an [issue](https://gith
   </a> 
 
   <a href="#">
+    <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
+  <a href="#">
     <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
   </a> 
 
@@ -324,12 +343,23 @@ Either create your own with the supplied files or create an [issue](https://gith
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
 
+
+  <a href="#">
+    <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
 </p>
 
 --- 
 
-## Devices 
+## Devices / Manufacturers
 <p align="left">
+
+  <a href="#">
+    <img src="svg/devices/cisco.svg" alt="cisco" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
   <a href="#">
     <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
   </a>  
