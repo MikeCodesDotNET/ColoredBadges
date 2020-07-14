@@ -7,7 +7,16 @@ I've put together some badges I for my [GitHub profile readme](https://github.co
   </a> 
 </p>
 
-### How to add a readme on your profile
+---
+
+
+## The Badges
+
+All badges are available as both [SVG](https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg) & [PNG](https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/png). I've also included the original [Figma file](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/badges.fig) I used to create these should you want to change the text. 
+
+---
+
+## How to add a readme on your profile
 
 It's super simple! 
 
@@ -15,18 +24,103 @@ Create a new repo using your GitHub username as the repo name. Voilà! 🎉🎉�
 
 ---
 
-## Badges
+## Tips for using the Icons
+I'm sure you're already a pro with creating GitHub markdown documents, but I thought I'd give you a quick tip anyways.
 
-All badges are available as both [SVG](https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg) & [PNG](https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/png). I've also included the original [Figma file](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/badges.fig) I used to create these should you want to edit. 
+Always try to use the SVG icons over the png. SVGs are scalable and look fabulous no matter what size device or DPI settings the viewer is using. 
 
+You can add an SVG image with a link using the following snippet: 
+```
+ <a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+```
 
-### Editing / Creating you own 
+Note how I have also provided **margins** of 6px for top and bottom and 4px for left and right. This allows the badges to have a little bit of space between them. 
+
+### Alignment 
+You can align the badges by wrapping the seconds in a paragraph tag and setting the alignment property. 
+
+#### Left Alignment
+```
+<p align="left">
+  <!-- Badges go here>
+</p>
+```
+<p align="left">
+ <a href="#">
+    <img src="help/badge1.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="help/badge2.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="help/badge3.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p>
+
+#### Center Alignment
+```
+<p align="center">
+  <!-- Badges go here>
+</p>
+```
+<p align="center">
+  <a href="#">
+    <img src="help/badge1.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="help/badge2.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="help/badge3.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p>
+
+#### Right Alignment
+```
+<p align="right">
+  <!-- Badges go here>
+</p>
+```
+<p align="right">
+  <a href="#">
+    <img src="help/badge1.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="help/badge2.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="help/badge3.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p>
+
+---
+
+## Editing / Creating you own 
 The [Figma file](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/badges.fig) contains a page detailing how to match the existing badge styles. 
 
 ---
 
-### Missing a badge you want? 
+## Missing a badge you want? 
 Either create your own with the supplied files or create an [issue](https://github.com/MikeCodesDotNET/ColoredBadges/issues/new?body=I%27d+like+to+have+a+new+badge.%0A%0A---Request+Info:) and if enough others thumbs-up the issue then I'll do my best to get the badge made. 
+
+### Badge requests 
+It's super useful to have a few bits of information to speed up badge creation. It's much appreciated but not obligatory for you to provide an example icon/reference image, preferred background color and the text label content. 
+
+<p align="center">
+ <a href="#">
+    <img src="help/BadgeAnatomy.png" alt=" badge anatomy" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <p>
+
+### Request Template: 
+
+**Reference Icon(s)**: 
+
+**Preferred Background**: FF9900 / Orange
+
+**Label Text**: Hello World 
 
 ---
 
