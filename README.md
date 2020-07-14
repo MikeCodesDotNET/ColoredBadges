@@ -172,6 +172,11 @@ It's super useful to have a few bits of information to speed up badge creation. 
     <img src="svg/dev/frameworks/avalonia.svg" alt="avalonia" style="vertical-align:top; margin:6px 4px">
   </a>  
 
+  
+   <a href="#">
+    <img src="svg/dev/frameworks/godot.svg" alt="godot" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
   <a href="#">
     <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>  
