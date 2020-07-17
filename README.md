@@ -49,13 +49,13 @@ You can align the badges by wrapping the seconds in a paragraph tag and setting 
 ```
 <p align="left">
  <a href="#">
-    <img src="help/badge1.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+    <img src="help/Badge1.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
   </a>  
  <a href="#">
-    <img src="help/badge2.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+    <img src="help/Badge2.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
   </a>  
  <a href="#">
-    <img src="help/badge3.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+    <img src="help/Badge3.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
 
@@ -67,13 +67,13 @@ You can align the badges by wrapping the seconds in a paragraph tag and setting 
 ```
 <p align="center">
   <a href="#">
-    <img src="help/badge1.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+    <img src="help/Badge1.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
   </a>  
  <a href="#">
-    <img src="help/badge2.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+    <img src="help/Badge2.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
   </a>  
  <a href="#">
-    <img src="help/badge3.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+    <img src="help/Badge3.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
 
@@ -85,13 +85,13 @@ You can align the badges by wrapping the seconds in a paragraph tag and setting 
 ```
 <p align="right">
   <a href="#">
-    <img src="help/badge1.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+    <img src="help/Badge1.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
   </a>  
  <a href="#">
-    <img src="help/badge2.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+    <img src="help/Badge2.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
   </a>  
  <a href="#">
-    <img src="help/badge3.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
+    <img src="help/Badge3.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
 
