@@ -156,7 +156,7 @@ It's super useful to have a few bits of information to speed up badge creation. 
     <img src="svg/blogs/wordpress.svg" alt="wordpress" style="vertical-align:top; margin:6px 4px">
   </a>   
 </p>
-
+ 
 ---
 
 ## Developer Tech
@@ -176,6 +176,11 @@ It's super useful to have a few bits of information to speed up badge creation. 
    <a href="#">
     <img src="svg/dev/frameworks/godot.svg" alt="godot" style="vertical-align:top; margin:6px 4px">
   </a>  
+
+  <a href="#">
+    <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
 
   <a href="#">
     <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
@@ -226,6 +231,10 @@ It's super useful to have a few bits of information to speed up badge creation. 
     <img src="svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
   </a>  
 
+  <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
    <a href="#">
     <img src="svg/dev/languages/fsharp.svg" alt="fsharp" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -265,6 +274,11 @@ It's super useful to have a few bits of information to speed up badge creation. 
   <a href="#">
     <img src="svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px">
   </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
 
   <a href="#">
     <img src="svg/dev/languages/swift.svg" alt="swift" style="vertical-align:top; margin:6px 4px">
@@ -378,6 +392,10 @@ It's super useful to have a few bits of information to speed up badge creation. 
 <p align="left">
   <a href="#">
     <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 
