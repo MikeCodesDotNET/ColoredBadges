@@ -651,6 +651,10 @@ It's super useful to have a few bits of information to speed up badge creation. 
   </a>  
 
   <a href="#">
+    <img src="svg/social/discord.svg" alt="angellist" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
     <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>  
   
