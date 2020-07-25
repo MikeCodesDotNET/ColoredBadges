@@ -483,7 +483,8 @@ It's super useful to have a few bits of information to speed up badge creation. 
 <p align="left">
   <a href="#">
     <img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
+
   <a href="#">
     <img src="svg/dev/tools/android_studio_colour.svg" alt="android_studio_colour" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -496,11 +497,17 @@ It's super useful to have a few bits of information to speed up badge creation. 
     <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-
   <a href="#">
     <img src="svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/tools/grafana.svg" alt="grafana" style="vertical-align:top; margin:6px 4px">
   </a> 
 
+  <a href="#">
+    <img src="svg/dev/tools/influxdb.svg" alt="influxdb" style="vertical-align:top; margin:6px 4px">
+  </a> 
 
   <a href="#">
     <img src="svg/dev/tools/jetbrains_appcode.svg" alt="jetbrains_appcode" style="vertical-align:top; margin:6px 4px">
@@ -558,7 +565,6 @@ It's super useful to have a few bits of information to speed up badge creation. 
     <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-
   <a href="#">
     <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -566,7 +572,6 @@ It's super useful to have a few bits of information to speed up badge creation. 
   <a href="#">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
-
 
   <a href="#">
     <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
