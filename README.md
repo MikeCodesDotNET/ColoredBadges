@@ -263,6 +263,10 @@ It's super useful to have a few bits of information to speed up badge creation. 
     <img src="svg/dev/frameworks/xamarin_mac.svg" alt="xamarin_mac" style="vertical-align:top; margin:6px 4px">
   </a>  
 
+   <a href="#">
+    <img src="svg/dev/frameworks/mysql.svg" alt="mysql" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
 </p>
 
 ### Languages 
@@ -421,6 +425,10 @@ It's super useful to have a few bits of information to speed up badge creation. 
   <a href="#">
     <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
   </a> 
+
+  <a href="#">
+    <img src="svg/dev/services/firebase.svg" alt="firebase" style="vertical-align:top; margin:6px 4px">
+  </a>
 
   <a href="#">
     <img src="svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px">
