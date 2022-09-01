@@ -262,7 +262,11 @@ It's super useful to have a few bits of information to speed up badge creation. 
 
    <a href="#">
     <img src="svg/dev/frameworks/react_native.svg" alt="react native" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
+
+   <a href="#">
+    <img src="svg/dev/frameworks/gatsby.svg" alt="gatsby" style="vertical-align:top; margin:6px 4px">
+  </a>
 
 </p>
 
