@@ -344,6 +344,10 @@ It's super useful to have a few bits of information to speed up badge creation. 
     <img src="svg/dev/languages/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:6px 4px">
   </a>
 
+  <a href="#">
+    <img src="svg/dev/languages/cpp.svg" alt="c++" style="vertical-align:top; margin:6px 4px">
+  </a>
+
 </p>
 
 ### Misc
