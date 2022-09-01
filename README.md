@@ -600,7 +600,11 @@ It's super useful to have a few bits of information to speed up badge creation. 
 
   <a href="#">
     <img src="svg/devices/xbox.svg" alt="xbox" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
+
+  <a href="#">
+    <img src="svg/devices/arduino.svg" alt="arduino" style="vertical-align:top; margin:6px 4px">
+  </a>
 
 </p>
 
