@@ -435,63 +435,9 @@ It's super useful to have a few bits of information to speed up badge creation. 
   </a> 
 
   <a href="#">
-    <img src="svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:6px 4px">
-  </a> 
+    <img src="svg/dev/services/firebase.svg" alt="firebase" style="vertical-align:top; margin:6px 4px">
+  </a>
 
-  <a href="#">
-    <img src="svg/dev/services/codewars.svg" alt="codewars" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-  <a href="#">
-    <img src="svg/dev/services/excercism.svg" alt="excercism" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/services/exchange.svg" alt="exchange" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  
-  <a href="#">
-    <img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/services/nuget.svg" alt="nuget" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  
 </p>
 
 
