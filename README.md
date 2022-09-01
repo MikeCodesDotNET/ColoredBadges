@@ -683,23 +683,43 @@ It's super useful to have a few bits of information to speed up badge creation. 
 
   <a href="#">
     <img src="svg/social/speakerdeck.svg" alt="speakerdeck" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
+  </a>    
+
+  <a href="#">
     <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
+  </a> 
+
+  <a href="#">
     <img src="svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
+  </a>
+
+  <a href="#">
     <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
+  </a>
+
+  <a href="#">
     <img src="svg/social/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
+  </a>
+
+  <a href="#">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
+  </a>
+
+  <a href="#">
     <img src="svg/social/untappd.svg" alt="untappd" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
+  </a>
+  
+  <a href="#">
     <img src="svg/social/viber.svg" alt="viber" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
+  </a>
+
+  <a href="#">
     <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
+
+  <a href="#">
+    <img src="svg/social/discord.svg" alt="discord" style="vertical-align:top; margin:6px 4px">
+  </a>
 
 </p>
 
