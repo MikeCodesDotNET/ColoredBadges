@@ -268,6 +268,10 @@ It's super useful to have a few bits of information to speed up badge creation. 
     <img src="svg/dev/frameworks/gatsby.svg" alt="gatsby" style="vertical-align:top; margin:6px 4px">
   </a>
 
+   <a href="#">
+    <img src="svg/dev/frameworks/blazor.svg" alt="blazor" style="vertical-align:top; margin:6px 4px">
+  </a>
+
 </p>
 
 ### Languages 
