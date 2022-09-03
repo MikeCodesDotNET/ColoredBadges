@@ -575,6 +575,10 @@ It's super useful to have a few bits of information to speed up badge creation. 
     <img src="svg/dev/tools/gitlab.svg" alt="GitLab" style="vertical-align:top; margin:6px 4px">
   </a>
 
+  <a href="#">
+    <img src="svg/dev/tools/bitbucket.svg" alt="BitBucket" style="vertical-align:top; margin:6px 4px">
+  </a>
+
 </p>
 
 --- 
